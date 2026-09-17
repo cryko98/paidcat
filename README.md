@@ -19,9 +19,9 @@ Everything you need to change lives at the top of `script.js`:
 
 ```js
 const CONFIG = {
-  contract: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", // real mint address
+  contract: "9n8rBV1L917EUSVDa9KTX2uMxvPfKZxLLtwKnYs8pump", // real mint address
   telegram: "https://t.me/paidcatonsol",         // Telegram group
-  pump: "https://pump.fun",                      // e.g. "https://pump.fun/coin/<contract>"
+  pump: "https://pump.fun/coin/9n8rBV1L917EUSVDa9KTX2uMxvPfKZxLLtwKnYs8pump",
 };
 ```
 

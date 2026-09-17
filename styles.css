@@ -667,6 +667,10 @@ h1, h2, h3, .brand-text, .tok-val, .step-n, .story-num, .marquee span {
   .cta-cat { width: 150px; }
   .cta-copy .hero-cta { justify-content: center; }
   .marquee span { font-size: 18px; }
+  /* show the full mint address instead of cutting it off */
+  .ca-row { flex-wrap: wrap; }
+  .ca-row code { flex: 1 1 100%; white-space: normal; word-break: break-all; font-size: 13px; }
+  .copy-btn { width: 100%; justify-content: center; }
 }
 
 @media (prefers-reduced-motion: reduce) {

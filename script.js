@@ -4,14 +4,14 @@
    ========================================================= */
 
 const CONFIG = {
-  // Paste the real mint address here when the coin is live
-  contract: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  // $PAIDCAT mint address
+  contract: "9n8rBV1L917EUSVDa9KTX2uMxvPfKZxLLtwKnYs8pump",
 
   // Telegram group
   telegram: "https://t.me/paidcatonsol",
 
-  // pump.fun coin page (e.g. "https://pump.fun/coin/<contract>")
-  pump: "https://pump.fun",
+  // pump.fun coin page
+  pump: "https://pump.fun/coin/9n8rBV1L917EUSVDa9KTX2uMxvPfKZxLLtwKnYs8pump",
 };
 
 /* ---------- apply config ---------- */
